@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    background-color: rgb(174, 211, 249);
+}
+#ParentLeft{
+    width: 55%;
+    height: 850px;
+}
+#ParentRight{
+    width: 45%;
+    height: 850px;
+}
+.lable{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 60px;
+    color: teal;
+
+}
